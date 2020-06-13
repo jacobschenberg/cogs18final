@@ -25,6 +25,3 @@ def test_finish():
 	assert finish('Darth', 'Jacob', 'curved-handled', 'blue', 'magus', 'BB') ==
 	"Generated character: Darth Jacob who wields a curved-handled blue" 
 	+ " lightsaber with a magus emitter, and a BB companion."
-
-
-#!pytest test_functions/
